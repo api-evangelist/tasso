@@ -1,0 +1,25 @@
+# Tasso, Inc.
+
+> Tasso, Inc. makes painless, needle-free blood collection devices (Tasso+, Tasso-M20, Tasso-SST / tile-T20) paired with an end-to-end logistics platform for decentralized and at-home blood sampling used in clinical trials, patient screening, and research. Tasso is cited in over 100 peer-reviewed publications. No public developer API surface is currently published.
+
+## Company
+- [Website](https://tassoinc.com/): Company homepage
+- [Solutions](https://tassoinc.com/solutions): End-to-end decentralized blood collection platform
+- [Company](https://tassoinc.com/company): About Tasso, Inc.
+- [Press](https://tassoinc.com/press): News and announcements
+- [Careers](https://tassoinc.com/careers): Open roles
+
+## Products
+- [Tasso+](https://tassoinc.com/tasso-plus): Capillary blood collection device
+- [Tasso-M20 / Mini](https://tassoinc.com/tasso-mini): Dried blood microsampling device
+- [tile-T20](https://tassoinc.com/tile-t20): Liquid serum/plasma collection device
+
+## Support & Legal
+- [FAQ](https://tassoinc.com/faq): Frequently asked questions
+- [Terms of Use](https://tassoinc.com/terms-of-use): Terms of use
+- [Privacy Policy](https://tassoinc.com/privacy-policy): Privacy policy
+- [Security Vulnerability Disclosure](https://tassoinc.com/security-vulnerability-disclosure): Responsible disclosure policy (security@tassoinc.com)
+
+## Notes
+- method: generated (from API Evangelist catalog apis.yml + verified public pages)
+- No public API, SDK, MCP server, OpenAPI, or developer documentation was found at time of enrichment (2026-07-21).

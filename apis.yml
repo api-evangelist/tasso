@@ -1,7 +1,28 @@
 aid: tasso
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/tasso.png
 name: Tasso
-description: Tasso is a company surfaced as a portfolio company of techstars and added to the API Evangelist
-  network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: >-
+  Tasso, Inc. designs painless, needle-free blood collection devices and an
+  end-to-end logistics platform for decentralized and at-home blood sampling.
+  Its product line includes Tasso+ for capillary whole-blood collection, the
+  Tasso-M20/Mini for dried blood microsampling, and the tile-T20 for liquid
+  serum and plasma, enabling remote specimen collection for clinical trials,
+  patient screening, diagnostics, and research. Tasso pairs the hardware with
+  kitting, shipping, and sample-return logistics and is cited in over 100
+  peer-reviewed publications. It was surfaced as a Techstars portfolio company
+  and added to the API Evangelist network. No public developer API surface was
+  found at the time of enrichment.
 url: https://raw.githubusercontent.com/api-evangelist/tasso/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -11,9 +32,18 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-21'
 tags:
 - Company
+- Blood Collection
+- Microsampling
+- Diagnostics
+- Clinical Trials
+- Decentralized Trials
+- Medical Devices
+- Healthcare
+- Life Sciences
+- Logistics
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -23,3 +53,26 @@ maintainers:
 common:
 - type: Website
   url: https://tassoinc.com/
+- type: Solutions
+  url: https://tassoinc.com/solutions
+- type: Support
+  url: https://tassoinc.com/faq
+- type: TermsOfService
+  url: https://tassoinc.com/terms-of-use
+- type: PrivacyPolicy
+  url: https://tassoinc.com/privacy-policy
+- type: Press
+  url: https://tassoinc.com/press
+- type: VulnerabilityDisclosure
+  url: security/tasso-vulnerability-disclosure.yml
+- type: Security
+  url: https://tassoinc.com/security-vulnerability-disclosure
+- type: DomainSecurity
+  url: security/tasso-domain-security.yml
+- type: LLMsTxt
+  url: llms/tasso-llms.txt
+x-enrichment:
+  date: '2026-07-21'
+  status: enriched
+  artifacts_added: 3
+  pass: local-v1
